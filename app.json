@@ -1,6 +1,6 @@
 
 {
-  "name": "Marie-2.0 English",
+  "name": "SonZerbe-2.0 aze",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "683538773"
+      "value": "1520362773"
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
-      "value": "ViruZs"
+      "description": "SAmusiqi",
+      "value": "SAmusiqi"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
